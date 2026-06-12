@@ -1,6 +1,6 @@
-## WarHacker x Defense Unicorns
+## Warhacker x Defense Unicorns
 
-This is the official GitHub Organization for the first Defense Unicorns WarHacker event!
+This is the official GitHub Organization for the first Defense Unicorns Warhacker event!
 
 For more information please see [https://warhacker.dev/](https://warhacker.dev/).
 
